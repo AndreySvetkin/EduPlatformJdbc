@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NewEduPlatform">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NewEduPlatform.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

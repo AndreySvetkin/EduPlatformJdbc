@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-jdbc-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-web-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-instrument-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-webmvc-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/tomcat-embed-websocket-10.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-boot-starter-logging-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/gson-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/javaee-api-8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/tomcat-embed-core-10.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mssql-jdbc-12.2.0.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-boot-autoconfigure-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-orm-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/micrometer-commons-1.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-boot-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-aop-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-tx-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-expression-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-websocket-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-data-relational-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-jcl-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-jms-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-data-commons-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-aspects-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/micrometer-observation-1.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-core-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-context-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-context-indexer-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-messaging-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-data-jdbc-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/tomcat-annotations-api-10.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-oxm-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/micrometer-core-1.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-beans-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/spring-context-support-6.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
